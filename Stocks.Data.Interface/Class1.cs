@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Stocks.Data.DbSet
+namespace Stocks.Data.Interface
 {
     public class Class1
     {

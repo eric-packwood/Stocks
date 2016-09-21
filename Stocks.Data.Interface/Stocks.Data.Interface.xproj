@@ -7,8 +7,8 @@
 
   <Import Project="$(VSToolsPath)\DotNet\Microsoft.DotNet.Props" Condition="'$(VSToolsPath)' != ''" />
   <PropertyGroup Label="Globals">
-    <ProjectGuid>d01859ac-4a53-46e7-b865-eac0b4e729ca</ProjectGuid>
-    <RootNamespace>Stocks.Data.DbSet</RootNamespace>
+    <ProjectGuid>a26e70cb-74b2-471f-b885-c16ef3e89939</ProjectGuid>
+    <RootNamespace>Stocks.Data.Interface</RootNamespace>
     <BaseIntermediateOutputPath Condition="'$(BaseIntermediateOutputPath)'=='' ">.\obj</BaseIntermediateOutputPath>
     <OutputPath Condition="'$(OutputPath)'=='' ">.\bin\</OutputPath>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>

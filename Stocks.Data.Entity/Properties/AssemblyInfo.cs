@@ -7,7 +7,7 @@ using System.Runtime.InteropServices;
 // associated with an assembly.
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Stocks.Data.DbSet")]
+[assembly: AssemblyProduct("Stocks.Data.Entity")]
 [assembly: AssemblyTrademark("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible
@@ -16,4 +16,4 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("d01859ac-4a53-46e7-b865-eac0b4e729ca")]
+[assembly: Guid("7b4bdcdd-2758-4684-84f3-0252db809e76")]
